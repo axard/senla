@@ -10,3 +10,4 @@
 rootProject.name = 'Senla'
 
 include 'fibonacci_number'
+include 'palindrome'
