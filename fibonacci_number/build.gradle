@@ -20,4 +20,8 @@ jar {
     }
 }
 
+run{
+    standardInput = System.in
+}
+
 mainClassName = 'fibonacci_number.App'
